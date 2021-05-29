@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aashishkumar123&theme=tokyonight"></th>
+
 <!--
 **pforderique/pforderique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
