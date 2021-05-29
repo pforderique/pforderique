@@ -1,6 +1,20 @@
-### Hi there 👋
+### Hi there! I'm Piero 👋
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pforderique&theme=tokyonight"></th>
+<table cellspacing="0" cellpadding="0" style="border: none;">
+  <th style="border: none;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=pforderique&theme=tokyonight">
+  </th>
+  <th>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pforderique&layout=compact&theme=tokyonight" alt="pforderique" />
+  </th>
+  <th>
+    <img src="https://github-readme-stats.vercel.app/api?username=pforderique&theme=tokyonight">
+  </th>
+</table>
+<hr>
+
+<!-- <p> <img src="https://komarev.com/ghpvc/?username=pforderique" alt="pforderique" /> </p> -->
+
 
 <!--
 **pforderique/pforderique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
