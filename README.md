@@ -1,7 +1,7 @@
 ### Hi there! I'm Piero 👋
 
 <table cellspacing="0" cellpadding="0" style="border: none;">
-  <th style="border: none;">
+  <th>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=pforderique&theme=tokyonight">
   </th>
 <!--   <th>
