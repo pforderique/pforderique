@@ -2,14 +2,14 @@
 
 <table cellspacing="0" cellpadding="0" style="border: none;">
   <th>
+    <img src="https://github-readme-stats.vercel.app/api?username=pforderique&theme=tokyonight">
+  </th>
+  <th>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=pforderique&theme=tokyonight">
   </th>
 <!--   <th>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pforderique&layout=compact&theme=tokyonight" alt="pforderique" />
   </th> -->
-  <th>
-    <img src="https://github-readme-stats.vercel.app/api?username=pforderique&theme=tokyonight">
-  </th>
 </table>
 <hr>
 
