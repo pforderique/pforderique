@@ -1,9 +1,8 @@
 ### Hi there! I'm Piero 👋
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pforderique&layout=donut&hide=Jupyter%20Notebook,HTML,SCSS,CSS,Processing)](https://github.com/anuraghazra/github-readme-stats) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pforderique&theme=blueberry-duo&border_radius=20)](https://git.io/streak-stats)
-<table cellspacing="0" cellpadding="0" style="border: none;">
-  <th>
+| Top Languages | Contributions |
+| ---- | --- |
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pforderique&layout=donut&hide=Jupyter%20Notebook,HTML,SCSS,CSS,Processing)](https://github.com/anuraghazra/github-readme-stats) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pforderique&theme=blueberry-duo&border_radius=20)](https://git.io/streak-stats) |
 
 <!-- <p> <img src="https://komarev.com/ghpvc/?username=pforderique" alt="pforderique" /> </p> -->
 
