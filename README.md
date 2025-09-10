@@ -1,8 +1,10 @@
-### Hi there! I'm Piero 👋
+### Welcome! I'm Piero
+
+MIT Alum interested in Natural Language Processing (NLP), cloud + ML infra, automation, and finance.
 
 | Top Languages | Contributions |
 | ---- | --- |
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pforderique&layout=donut&hide=Jupyter%20Notebook,HTML,SCSS,CSS,Processing)](https://github.com/anuraghazra/github-readme-stats) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pforderique&theme=blueberry-duo&border_radius=20)](https://git.io/streak-stats) |
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pforderique&layout=donut&theme=dark&hide_title=true&hide=Jupyter%20Notebook,HTML,SCSS,CSS,Processing,Vue,GLSL,Javascript,Go)](https://github.com/anuraghazra/github-readme-stats) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pforderique&theme=blueberry-duo&border_radius=20)](https://git.io/streak-stats) |
 
 <!-- <p> <img src="https://komarev.com/ghpvc/?username=pforderique" alt="pforderique" /> </p> -->
 
